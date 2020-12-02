@@ -1,0 +1,11 @@
+{
+  "name": "nasimjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nasim.js",
+  "scripts": {
+    "nasim": "node nasim.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

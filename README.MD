@@ -1,4 +1,4 @@
-### This project is just for fun & learning perpouses 
+### This project is just for fun & learning purpose 
 
 
 Uses `npm run nasim`
